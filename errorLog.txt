@@ -1,0 +1,58 @@
+
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendMention'
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] 'int' object is not callable
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'mentionMembers'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'mentionMembers'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not NoneType
+[<module 'time' (built-in)>] '<' not supported between instances of 'str' and 'int'
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] sendMention() missing 1 required positional argument: 'lastmessage'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'Invitegroupcall'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] local variable 'mentionMembers' referenced before assignment
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] 'data'
+[<module 'time' (built-in)>] 'data'
+[<module 'time' (built-in)>] 'data'
+[<module 'time' (built-in)>] 'changePicture'
