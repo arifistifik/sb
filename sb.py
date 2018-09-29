@@ -688,14 +688,14 @@ def clBot(op):
                                 midSelect = len(midMembers)//20
                                 for mentionMembers in range(midSelect+1):
                                     no = 0
-                                    ret_ = ""
+                                    ret_ = "╔══[ Mention Members ]"
                                     dataMid = []
                                     for dataMention in group.members[mentionMembers*20 : (mentionMembers+1)*20]:
                                         dataMid.append(dataMention.mid)
                                         no += 1
-                                        ret_ += "".format(str(no))
-                                    ret_ += "".format(str(len(dataMid)))
-                                    cl.sendMessageWithMention(to, ret_, dataMid)
+                                        ret_ += "\n╠ {}. @!".format(str(no))
+                                    ret_ += "\n╚══[ Total {} Members]".format(str(len(dataMid)))
+                                    cl.sendMention(msg.to, ret_, dataMid)
                 elif text.lower() == 'changepictureprofile':
                             settings["changePicture"] = True
                             cl.sendMessage(to, "Silahkan kirim gambarnya")
